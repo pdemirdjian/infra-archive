@@ -1,0 +1,7 @@
+creds
+*.tfstate
+*.tfstate.*
+*infra/.terraform/*
+*infra/.terraform.lock*
+plan.out
+.idea

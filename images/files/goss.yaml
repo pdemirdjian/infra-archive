@@ -1,0 +1,10 @@
+port:
+  tcp:80:
+    listening: true
+service:
+  sshd:
+    enabled: true
+    running: true
+  nginx:
+    enabled: true
+    running: true
